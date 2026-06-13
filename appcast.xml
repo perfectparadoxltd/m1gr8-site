@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Notebound</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Sat, 13 Jun 2026 07:21:03 +0100</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://notebound.perfectparadox.co.uk/Notebound-0.1.0.zip" length="8367823" type="application/octet-stream" sparkle:edSignature="nLtOfrD4oTdA6Tet70EyIHotU6ijn8ZIKUGdfRxhWHiqFdYRyari7id4lVXS3KZiJxtgG8H7F+kpAn0FEnDQCA=="/>
+        </item>
+    </channel>
+</rss>
