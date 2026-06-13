@@ -3,6 +3,18 @@
     <channel>
         <title>Notebound</title>
         <item>
+            <title>0.2.0</title>
+            <pubDate>Sat, 13 Jun 2026 23:57:36 +0100</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://notebound.perfectparadox.co.uk/Notebound-0.2.0.zip" length="8512243" type="application/octet-stream" sparkle:edSignature="n1jl28Z201UVKIedDLVlRBnknMfIX4S0x/hjjKxzF9U7AIyx94XvXPhK0BG3jIOi92E5tPYbPkuErc0Ev5gbCA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://notebound.perfectparadox.co.uk/Notebound2-1.delta" sparkle:deltaFrom="1" length="198214" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="kz3QWeVVwnykq0iolnXWOaB95en8iBSqewXzHjNyNTigNueCCR7W+2lDZyTqmf3M0zT/v+3UJPDEZZ6kFYJpCQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.1.0</title>
             <pubDate>Sat, 13 Jun 2026 07:21:03 +0100</pubDate>
             <sparkle:version>1</sparkle:version>
