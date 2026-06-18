@@ -3,38 +3,13 @@
     <channel>
         <title>Notebound</title>
         <item>
-            <title>0.2.1</title>
-            <pubDate>Sun, 14 Jun 2026 15:44:13 +0100</pubDate>
+            <title>0.2.2</title>
+            <pubDate>Thu, 18 Jun 2026 06:46:58 +0100</pubDate>
             <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
+            <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://notebound.perfectparadox.co.uk/Notebound-0.2.1.zip" length="8514331" type="application/octet-stream" sparkle:edSignature="l1Q9G6p8RZEbFT1Kn1CcrWxM15MQ6TZOketF1MU/oWa13d/TFnQm9yQQ5kZDr+Fs1VJAvqakGcfddbvPtWNVCA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://notebound.perfectparadox.co.uk/Notebound3-2.delta" sparkle:deltaFrom="2" length="57082" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="IcvFjQk01q/mTr1e8DQd23Gd0e+2buQDvRanQ3BeuaBuO+eHxK5gbGEWFU5GbxMaxugxB+rbqLO2uWCgEc3ADg=="/>
-                <enclosure url="https://notebound.perfectparadox.co.uk/Notebound3-1.delta" sparkle:deltaFrom="1" length="203846" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="8HdA8jHcgqMgJnTPv1/2p+A4hU8Gg4ZkhnVdq8zWYKMaooUh56wHBoeJpWFclx7EzJpL0YQ6ub1CdVcYjMo9Aw=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.2.0</title>
-            <pubDate>Sat, 13 Jun 2026 23:57:36 +0100</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://notebound.perfectparadox.co.uk/Notebound-0.2.0.zip" length="8512243" type="application/octet-stream" sparkle:edSignature="n1jl28Z201UVKIedDLVlRBnknMfIX4S0x/hjjKxzF9U7AIyx94XvXPhK0BG3jIOi92E5tPYbPkuErc0Ev5gbCA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://notebound.perfectparadox.co.uk/Notebound2-1.delta" sparkle:deltaFrom="1" length="198214" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="kz3QWeVVwnykq0iolnXWOaB95en8iBSqewXzHjNyNTigNueCCR7W+2lDZyTqmf3M0zT/v+3UJPDEZZ6kFYJpCQ=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.1.0</title>
-            <pubDate>Sat, 13 Jun 2026 07:21:03 +0100</pubDate>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://notebound.perfectparadox.co.uk/Notebound-0.1.0.zip" length="8367823" type="application/octet-stream" sparkle:edSignature="nLtOfrD4oTdA6Tet70EyIHotU6ijn8ZIKUGdfRxhWHiqFdYRyari7id4lVXS3KZiJxtgG8H7F+kpAn0FEnDQCA=="/>
+            <enclosure url="https://notebound.perfectparadox.co.uk/Notebound-0.2.2.zip" length="8521987" type="application/octet-stream" sparkle:edSignature="1D1qHMOxp3NJgSs9ohGf6XgHkO70jEDRsUzM4jj/EbD0epvyiI6ufs4iYYpSQL/v7EFn22CANd6KXzhNZ0vwAQ=="/>
         </item>
     </channel>
 </rss>
