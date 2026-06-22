@@ -175,6 +175,23 @@ details.faq-item p{padding:0 0 26px;margin:0;color:#cbc7bf;font-size:16px;line-h
 .fb-msg.err{color:#ED6A5E;display:block}
 .fb .btn[disabled]{opacity:.55;cursor:wait}
 @media(max-width:760px){.fb,.langs{padding-left:24px;padding-right:24px}}
+/* changelog / novedades */
+.news{padding:120px 56px;background:rgba(10,10,11,.82)}
+.news-wrap{max-width:820px;margin:0 auto}
+.rel{position:relative;margin-top:8px;padding-left:34px;border-left:1px solid var(--line)}
+.rel-item{position:relative;padding-bottom:44px}
+.rel-item:last-child{padding-bottom:0}
+.rel-item::before{content:'';position:absolute;left:-39px;top:7px;width:9px;height:9px;border-radius:50%;background:var(--muted);box-shadow:0 0 0 5px var(--bg)}
+.rel-item.latest::before{background:var(--crimson2);box-shadow:0 0 0 5px var(--bg)}
+.rel-head{display:flex;align-items:baseline;gap:14px;flex-wrap:wrap;margin-bottom:14px}
+.rel-v{font-family:'Anton',sans-serif;font-size:32px;line-height:1;color:var(--ink)}
+.rel-item.latest .rel-v{color:var(--crimson2)}
+.rel-date{font-family:'JetBrains Mono',monospace;font-size:12px;letter-spacing:.12em;text-transform:uppercase;color:var(--muted)}
+.rel-tag{font-family:'JetBrains Mono',monospace;font-size:10px;letter-spacing:.16em;text-transform:uppercase;color:var(--bg);background:var(--crimson2);border-radius:9px;padding:3px 9px}
+.rel-list{list-style:none;display:flex;flex-direction:column;gap:9px}
+.rel-list li{position:relative;padding-left:20px;color:#cbc7bf;font-size:15.5px;line-height:1.55}
+.rel-list li::before{content:'';position:absolute;left:0;top:11px;width:8px;height:1px;background:var(--crimson2)}
+@media(max-width:760px){.news{padding-left:24px;padding-right:24px}}
 </style>
 <script defer data-domain="notebound.perfectparadox.co.uk" src="https://analytics.dchv.co.uk/js/script.js"></script>
 </head>
@@ -314,6 +331,29 @@ details.faq-item p{padding:0 0 26px;margin:0;color:#cbc7bf;font-size:16px;line-h
 <details class="faq-item"><summary data-i18n="faq.11.q">Does it work offline?</summary><p data-i18n="faq.11.a">Completely. All conversion happens on-device, so Notebound works with the network unplugged. No cloud, no servers, no dependency on anyone's API — just your Mac doing the work.</p></details>
 <details class="faq-item"><summary data-i18n="faq.12.q">Can I get a refund?</summary><p data-i18n="faq.12.a">Yes — a 14-day money-back guarantee, no questions asked. And since you can analyse your vault for free before paying, you'll know what to expect first. Payments are handled by Paddle; just reply to your receipt and we'll sort it out.</p></details>
 </div></section>
+<section class="news" id="changelog"><div class="news-wrap"><div class="sec-label" data-i18n="news.label">// What's new</div>
+<div class="rel">
+  <div class="rel-item latest">
+    <div class="rel-head"><span class="rel-v">0.2.3</span><span class="rel-date">Jun 2026</span><span class="rel-tag" data-i18n="news.latest">Latest</span></div>
+    <ul class="rel-list"><li data-i18n="news.023.1">Notebound now speaks 7 languages — the whole interface and its conversion reports follow your Mac's language.</li></ul>
+  </div>
+  <div class="rel-item">
+    <div class="rel-head"><span class="rel-v">0.2.2</span><span class="rel-date">Jun 2026</span></div>
+    <ul class="rel-list"><li data-i18n="news.022.1">Cleaner conversions: tables, escaped pipes and nested lists now carry over faithfully, and a stray "---" is no longer mistaken for hidden settings.</li><li data-i18n="news.022.2">Safer re-runs — converting the same notes again no longer creates duplicates, and any note that can't move is reported instead of vanishing.</li></ul>
+  </div>
+  <div class="rel-item">
+    <div class="rel-head"><span class="rel-v">0.2.1</span><span class="rel-date">Jun 2026</span></div>
+    <ul class="rel-list"><li data-i18n="news.021.1">Apple Notes → Markdown export is now more faithful: code blocks, checklists and underlines stay intact, and you get an honest report of anything that had to change.</li></ul>
+  </div>
+  <div class="rel-item">
+    <div class="rel-head"><span class="rel-v">0.2.0</span><span class="rel-date">Jun 2026</span></div>
+    <ul class="rel-list"><li data-i18n="news.020.1">Notebound goes both ways — export your Apple Notes back out to clean Markdown files, pick a destination and favourite folder, with consistent drag-and-drop in either direction.</li></ul>
+  </div>
+  <div class="rel-item">
+    <div class="rel-head"><span class="rel-v">0.1.0</span><span class="rel-date">Jun 2026</span></div>
+    <ul class="rel-list"><li data-i18n="news.010.1">Initial release: bring your Markdown and Obsidian notes into Apple Notes with formatting preserved.</li></ul>
+  </div>
+</div></div></section>
 <section class="fb" id="feedback"><div class="fb-wrap"><div class="sec-label" data-i18n="fb.label">// Feedback</div>
   <h2 style="font-family:'Anton',sans-serif;text-transform:uppercase;font-size:clamp(34px,6vw,58px);line-height:.9;margin:0 0 18px" data-i18n="fb.title">Help shape<br>Notebound</h2>
   <p class="fb-lead" data-i18n="fb.lead">Found a bug, or wish it did one more thing? Tell us — every message goes straight to the people who build Notebound. No account, no tracking.</p>

@@ -26,6 +26,15 @@ window.I18N = {
 
   /* ===================================================================== */
   en: {
+    /* changelog / novedades */
+    "news.label": "// What's new",
+    "news.latest": "Latest",
+    "news.023.1": "Notebound now speaks 8 languages — the whole interface and its conversion reports follow your Mac's language.",
+    "news.022.1": "Cleaner conversions: tables, escaped pipes and nested lists now carry over faithfully, and a stray \"---\" is no longer mistaken for hidden settings.",
+    "news.022.2": "Safer re-runs — converting the same notes again no longer creates duplicates, and any note that can't move is reported instead of vanishing.",
+    "news.021.1": "Apple Notes → Markdown export is now more faithful: code blocks, checklists and underlines stay intact, and you get an honest report of anything that had to change.",
+    "news.020.1": "Notebound goes both ways — export your Apple Notes back out to clean Markdown files, pick a destination and favourite folder, with consistent drag-and-drop in either direction.",
+    "news.010.1": "Initial release: bring your Markdown and Obsidian notes into Apple Notes with formatting preserved.",
     /* idiomas + feedback (multiidioma) */
     "hero.langs": "8 languages",
     "langs.label": "// Speaks your language",
@@ -146,6 +155,15 @@ window.I18N = {
 
   /* ===================================================================== */
   es: {
+    /* changelog / novedades */
+    "news.label": "// Novedades",
+    "news.latest": "Última",
+    "news.023.1": "Notebound ya habla 8 idiomas: toda la interfaz y sus informes de conversión siguen el idioma de tu Mac.",
+    "news.022.1": "Conversiones más limpias: tablas, barras escapadas y listas anidadas se conservan fielmente, y un «---» suelto ya no se confunde con ajustes ocultos.",
+    "news.022.2": "Re-ejecuciones más seguras: convertir las mismas notas de nuevo ya no crea duplicados, y cualquier nota que no pueda moverse se informa en lugar de desaparecer.",
+    "news.021.1": "La exportación de Apple Notes a Markdown es ahora más fiel: bloques de código, listas de tareas y subrayados quedan intactos, y recibes un informe honesto de cualquier cosa que haya tenido que cambiar.",
+    "news.020.1": "Notebound funciona en ambos sentidos: exporta tus notas de Apple Notes a archivos Markdown limpios, elige destino y carpeta favorita, con arrastrar y soltar coherente en cualquier dirección.",
+    "news.010.1": "Versión inicial: lleva tus notas de Markdown y Obsidian a Apple Notes conservando el formato.",
     /* idiomas + feedback (multiidioma) */
     "hero.langs": "8 idiomas",
     "langs.label": "// Habla tu idioma",
@@ -266,6 +284,15 @@ window.I18N = {
 
   /* ===================================================================== */
   fr: {
+    /* changelog / novedades */
+    "news.label": "// Nouveautés",
+    "news.latest": "Récent",
+    "news.023.1": "Notebound parle désormais 8 langues — toute l'interface et ses rapports de conversion suivent la langue de votre Mac.",
+    "news.022.1": "Conversions plus propres : tableaux, barres verticales échappées et listes imbriquées sont fidèlement conservés, et un « --- » isolé n'est plus pris pour des réglages cachés.",
+    "news.022.2": "Ré-exécutions plus sûres — reconvertir les mêmes notes ne crée plus de doublons, et toute note qui ne peut pas être déplacée est signalée au lieu de disparaître.",
+    "news.021.1": "L'export d'Apple Notes vers Markdown est plus fidèle : blocs de code, listes de tâches et soulignements restent intacts, et vous recevez un rapport honnête de tout ce qui a dû changer.",
+    "news.020.1": "Notebound fonctionne dans les deux sens — exportez vos notes Apple Notes en fichiers Markdown propres, choisissez une destination et un dossier favori, avec un glisser-déposer cohérent dans les deux directions.",
+    "news.010.1": "Première version : importez vos notes Markdown et Obsidian dans Apple Notes en conservant la mise en forme.",
     /* idiomas + feedback (multiidioma) */
     "hero.langs": "8 langues",
     "langs.label": "// Parle votre langue",
@@ -386,6 +413,15 @@ window.I18N = {
 
   /* ===================================================================== */
   de: {
+    /* changelog / novedades */
+    "news.label": "// Neuigkeiten",
+    "news.latest": "Neu",
+    "news.023.1": "Notebound spricht jetzt 8 Sprachen — die gesamte Oberfläche und ihre Konvertierungsberichte folgen der Sprache deines Macs.",
+    "news.022.1": "Sauberere Konvertierungen: Tabellen, maskierte senkrechte Striche und verschachtelte Listen werden getreu übernommen, und ein einzelnes „---“ wird nicht mehr für versteckte Einstellungen gehalten.",
+    "news.022.2": "Sicherere Wiederholungen — dieselben Notizen erneut zu konvertieren erzeugt keine Duplikate mehr, und jede Notiz, die nicht verschoben werden kann, wird gemeldet statt zu verschwinden.",
+    "news.021.1": "Der Export von Apple Notes nach Markdown ist nun getreuer: Codeblöcke, Checklisten und Unterstreichungen bleiben erhalten, und du erhältst einen ehrlichen Bericht über alles, was geändert werden musste.",
+    "news.020.1": "Notebound funktioniert in beide Richtungen — exportiere deine Apple-Notizen wieder als saubere Markdown-Dateien, wähle Ziel und Lieblingsordner, mit konsistentem Ziehen und Ablegen in beide Richtungen.",
+    "news.010.1": "Erste Version: bringe deine Markdown- und Obsidian-Notizen unter Beibehaltung der Formatierung in Apple Notes.",
     /* idiomas + feedback (multiidioma) */
     "hero.langs": "8 Sprachen",
     "langs.label": "// Spricht deine Sprache",
@@ -506,6 +542,15 @@ window.I18N = {
 
   /* ===================================================================== */
   it: {
+    /* changelog / novedades */
+    "news.label": "// Novità",
+    "news.latest": "Ultima",
+    "news.023.1": "Notebound ora parla 8 lingue — l'intera interfaccia e i suoi resoconti di conversione seguono la lingua del tuo Mac.",
+    "news.022.1": "Conversioni più pulite: tabelle, barre verticali con escape ed elenchi annidati vengono riportati fedelmente, e un «---» isolato non viene più scambiato per impostazioni nascoste.",
+    "news.022.2": "Riesecuzioni più sicure — riconvertire le stesse note non crea più duplicati, e ogni nota che non può essere spostata viene segnalata invece di sparire.",
+    "news.021.1": "L'esportazione da Apple Notes a Markdown è ora più fedele: blocchi di codice, elenchi di cose da fare e sottolineature restano intatti, e ricevi un resoconto onesto di tutto ciò che ha dovuto cambiare.",
+    "news.020.1": "Notebound funziona in entrambe le direzioni — esporta le tue note di Apple Notes in file Markdown puliti, scegli destinazione e cartella preferita, con trascina e rilascia coerente in entrambi i versi.",
+    "news.010.1": "Versione iniziale: porta le tue note Markdown e Obsidian in Apple Notes mantenendo la formattazione.",
     /* idiomas + feedback (multiidioma) */
     "hero.langs": "8 lingue",
     "langs.label": "// Parla la tua lingua",
@@ -626,6 +671,15 @@ window.I18N = {
 
   /* ===================================================================== */
   pt: {
+    /* changelog / novedades */
+    "news.label": "// Novidades",
+    "news.latest": "Recente",
+    "news.023.1": "O Notebound já fala 8 idiomas — toda a interface e os seus relatórios de conversão seguem o idioma do teu Mac.",
+    "news.022.1": "Conversões mais limpas: tabelas, barras verticais com escape e listas aninhadas são preservadas fielmente, e um «---» solto já não é confundido com definições ocultas.",
+    "news.022.2": "Re-execuções mais seguras — converter as mesmas notas de novo já não cria duplicados, e qualquer nota que não possa ser movida é reportada em vez de desaparecer.",
+    "news.021.1": "A exportação de Apple Notes para Markdown está agora mais fiel: blocos de código, listas de tarefas e sublinhados ficam intactos, e recebes um relatório honesto de tudo o que teve de mudar.",
+    "news.020.1": "O Notebound funciona nos dois sentidos — exporta as tuas notas do Apple Notes para ficheiros Markdown limpos, escolhe destino e pasta favorita, com arrastar e largar consistente em qualquer direção.",
+    "news.010.1": "Versão inicial: leva as tuas notas de Markdown e Obsidian para o Apple Notes mantendo a formatação.",
     /* idiomas + feedback (multiidioma) */
     "hero.langs": "8 idiomas",
     "langs.label": "// Fala a sua língua",
@@ -746,6 +800,15 @@ window.I18N = {
 
   /* ===================================================================== */
   ja: {
+    /* changelog / novedades */
+    "news.label": "// 新着情報",
+    "news.latest": "最新",
+    "news.023.1": "Notebound が 8 言語に対応しました — インターフェイス全体と変換レポートが、お使いの Mac の言語に従います。",
+    "news.022.1": "より忠実な変換に：表、エスケープされた縦棒、入れ子のリストが正確に引き継がれ、単独の「---」が隠し設定と誤認されなくなりました。",
+    "news.022.2": "より安全な再実行 — 同じノートを再変換しても重複が作られなくなり、移動できないノートは消えずに報告されます。",
+    "news.021.1": "Apple メモから Markdown への書き出しがより忠実に：コードブロック、チェックリスト、下線がそのまま保たれ、変更が必要だった箇所は正直にレポートされます。",
+    "news.020.1": "Notebound は双方向に対応 — Apple メモをきれいな Markdown ファイルとして書き出し、保存先とお気に入りフォルダを選べ、どちらの方向でも一貫したドラッグ&ドロップが使えます。",
+    "news.010.1": "初回リリース：Markdown と Obsidian のノートを、書式を保ったまま Apple メモに取り込みます。",
     /* idiomas + feedback (multiidioma) */
     "hero.langs": "8言語",
     "langs.label": "// あなたの言語で",
@@ -866,6 +929,15 @@ window.I18N = {
 
   /* ===================================================================== */
   "zh-Hans": {
+    /* changelog / novedades */
+    "news.label": "// 新功能",
+    "news.latest": "最新",
+    "news.023.1": "Notebound 现已支持 8 种语言——整个界面及其转换报告都会跟随你 Mac 的语言。",
+    "news.022.1": "更干净的转换：表格、转义竖线和嵌套列表都能忠实保留，单独的「---」也不再被误认为隐藏设置。",
+    "news.022.2": "更安全的重复运行——再次转换相同的笔记不会再产生重复，无法移动的笔记会被报告而不是消失。",
+    "news.021.1": "从 Apple 备忘录导出到 Markdown 更加忠实：代码块、清单和下划线都保持完整，并且你会收到一份关于所有必须更改之处的诚实报告。",
+    "news.020.1": "Notebound 支持双向转换——把你的 Apple 备忘录导出为干净的 Markdown 文件，可选择目标位置和收藏夹，两个方向都有一致的拖放体验。",
+    "news.010.1": "首个版本：将你的 Markdown 和 Obsidian 笔记导入 Apple 备忘录，并保留格式。",
     /* idiomas + feedback (multiidioma) */
     "hero.langs": "8 种语言",
     "langs.label": "// 说你的语言",
