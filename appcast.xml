@@ -3,13 +3,13 @@
     <channel>
         <title>Notebound</title>
         <item>
-            <title>0.2.3</title>
-            <pubDate>Sun, 21 Jun 2026 23:47:16 +0100</pubDate>
-            <sparkle:version>5</sparkle:version>
-            <sparkle:shortVersionString>0.2.3</sparkle:shortVersionString>
+            <title>0.2.4</title>
+            <pubDate>Tue, 20 Oct 2026 22:16:27 +0100</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>0.2.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://notebound.perfectparadox.co.uk/Notebound-0.2.3.zip" length="8553940" type="application/octet-stream" sparkle:edSignature="OGLQkuSQgYdRKBRvFOiiFivlg5edZb4+4MiCJaIJW19ChmosTnQ+b3WV+tpHXsNONA7XTMaXZDP6P7q8cP3UAQ=="/>
+            <enclosure url="https://notebound.perfectparadox.co.uk/Notebound-0.2.4.zip" length="8550284" type="application/octet-stream" sparkle:edSignature="hZPhLP0lPB0uBIdnNuQPCUjOOaXixseEWvF1pu/IGrsAugfsKtNrAm9Q6sbus8WZ5OD4V1WyhlpvqkPKKx3+AQ=="/>
         </item>
     </channel>
 </rss>
